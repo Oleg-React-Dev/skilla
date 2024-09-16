@@ -1,0 +1,3 @@
+export const ROTATE_ICON_180_DEGREES = 180;
+export const ROTATE_ICON_90_DEGREES = 90;
+export const ROTATE_ICON_MINUS_90_DEGREES = -90;
